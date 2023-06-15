@@ -10,7 +10,7 @@ inspiration = """
 ┳┻|
 ┻┳|
 ┳┻| _
-┻┳| •.•)  - Shhhhh, AV might hear us! 
+┻┳| •.•)  - Shhhhh Bob, AV might hear you! 
 ┳┻|⊂ﾉ   
 ┻┳|
 """
